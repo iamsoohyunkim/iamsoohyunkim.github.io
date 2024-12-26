@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Soohyun Kim's Personal Website"
+title                    : "My Personal Website"
 title_separator          : "-"
 name                     : &name "Soohyun Kim"
 description              : &description "personal description"
